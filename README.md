@@ -1,26 +1,26 @@
 # DataScienceSurvey
-#Table of Content
+**Table of Content**
 
 <ol>
-<li>1.Project Motivation</li>
-<li>2.File Description</li>
-<li>3.Results</li>
-<li>4.Licensing, Authors, Acknowledgements</li>
+<li>1 Project Motivation</li>
+<li>2 File Description</li>
+<li>3 Results</li>
+<li>4 Licensing, Authors, Acknowledgements</li>
 </ol>
 
-#Projection Motivation
+Projection Motivation
 Kaggle's 2020 Annual Survey was used to explore the following questions: 
-<li>.How to get started in data science  </li>
-<li>2.What is the salary distributio of Data Sciebtist   </li>
-<li>3.What are the tools that are used to process data   </li>
-<li> What does a Data Scientist do? </li>
+<li>1How to get started in data science  </li>
+<li>2What is the salary distributio of Data Sciebtist   </li>
+<li>3 What are the tools that are used to process data   </li>
+<li>4 What does a Data Scientist do? </li>
 </ol>
 
 
-#File Description
+File Description
 A Jupiter notebook is provided with the analysis of the survey results.
 
-#Results
+Results
 See the results [here] https://actuarialscience323.medium.com
 
 Licensing, Authors, Acknowledgements
