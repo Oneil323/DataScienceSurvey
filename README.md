@@ -8,7 +8,7 @@
 <li>Licensing, Authors, Acknowledgements</li>
 </ol>
 
-Projection Motivation
+# Projection Motivation
 Kaggle's 2020 Annual Survey was used to explore the following questions: 
 <li>How to get started in data science  </li>
 <li>What is the salary distributio of Data Sciebtist   </li>
@@ -17,10 +17,10 @@ Kaggle's 2020 Annual Survey was used to explore the following questions:
 </ol>
 
 
-File Description
+# File Description
 A Jupiter notebook is provided with the analysis of the survey results.
 
-Results
+# Results
 See the results [here] https://actuarialscience323.medium.com
 
 Licensing, Authors, Acknowledgements
