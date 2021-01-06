@@ -21,5 +21,6 @@ Kaggle's 2020 Annual Survey was used to explore the following questions:
 A Jupiter notebook is provided with the analysis of the survey results.
 
 # [Results] (https://actuarialscience323.medium.com)
-Licensing, Authors, Acknowledgements
+
+# Licensing, Authors, Acknowledgements
 I wish to credit kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle www.kaggle.com/c/kaggle-survey-2020/data
